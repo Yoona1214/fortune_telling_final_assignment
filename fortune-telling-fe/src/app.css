@@ -1,0 +1,22 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* @font-face {
+	font-family: 'Baoli SC';
+	src: url('/baoli-sc.woff2');
+} */
+
+@font-face {
+	font-family: 'Baoli TC';
+	src: url('/baoli-tc.woff2');
+}
+
+body {
+	font-family: 'Baoli TC';
+	background-color: #eae3d3;
+}
+
+.grid {
+	position: relative;
+}
