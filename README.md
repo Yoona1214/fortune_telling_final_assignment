@@ -1,5 +1,16 @@
 # Bazi Analysis
 
+## Product Info
+
+Name: Bazi Fortunetelling
+Project Management Link: https://skx5eapfsg.feishu.cn/docx/DtladhM9YoItO5xQbwScKWoMnSb 
+
+## Team Members
+
+- Du Yu  24068263G
+- He Zixing 24070901G
+- Xue Jinyuan 24060635G
+
 ## Tech Stack
 
 - Frontend: SvelteKit
